@@ -1,4 +1,4 @@
-<!--[Lakshmanan Meiyappan Banner Image](./banner.png)
+<?[Lakshmanan Meiyappan Banner Image](./banner.png)
 <!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
 
@@ -56,4 +56,4 @@ I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjo
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:ConnectWith@laxmena.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
--->
+?>
