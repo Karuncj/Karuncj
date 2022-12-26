@@ -1,6 +1,6 @@
-<?[Lakshmanan Meiyappan Banner Image](./banner.png)
-<!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
-<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
+<!--[Lakshmanan Meiyappan Banner Image](./banner.png)
+<h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
+<p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> 
 
 <h2>Hey! 👋</h2>
 
@@ -35,7 +35,7 @@ __Check out my GitHub repository:__
 <!--   <p align="center">
     <b><em>Now listening to:</em></b> <br/>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=lakshmanan.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
+  </p> 
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
@@ -56,4 +56,4 @@ I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjo
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:ConnectWith@laxmena.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lakshmanan-meiyappan/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-?>
+-->
