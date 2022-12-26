@@ -9,7 +9,7 @@
   </a>
 </div>
 <div id="badges">
-  https://komarev.com/ghpvc/?username=karuncj
+  <a href=https://komarev.com/ghpvc/?username=karuncj">
   </div>
   <h1>
   hey there
