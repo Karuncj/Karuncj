@@ -67,3 +67,12 @@
     <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Karuncj&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&show_icons=false" />
   </div>
   <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karuncj&show_icons=true&count_private=true&langs_count=10&hide=ruby&locale=en&layout=compact&hide_border=true&theme=react" alt="Karuncj" />
+  <br><br><br><br><br><br>
+ <hr>
+  <div align="center">
+  <br>
+  </div>
+ 
+</p>
