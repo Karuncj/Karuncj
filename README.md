@@ -58,3 +58,12 @@
   
   <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Karuncj&title=MultiLanguage,Commits,Stars,Repositories,Followers,PullRequest,Organizations&column=7&no-frame=true&no-bg=true&theme=algolia&row=2" alt="Karun Chery James" /></a> </p>
+  
+  <h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Karuncj&theme=react&hide_border=true&bg_color=0D1117" alt="Karuncj" />
+    <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Karuncj&show_icons=true&count_private=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&show_icons=false" />
+  </div>
+  <br><br><br><br><br><br><br><br><br>
