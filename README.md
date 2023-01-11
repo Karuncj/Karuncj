@@ -5,8 +5,12 @@
   <a href="https://www.linkedin.com/in/karun-chery-james-76b165206/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://twitter.com/KarunCheryJames">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" align="center"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    <a href="mailto:karunchery@gmail.com">
+      <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+      
 </div>
 <!--<div id="badges">
   <a href="https://komarev.com/ghpvc/?username=karuncj">
@@ -14,7 +18,7 @@
   <br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Karun+Chery+James...;Nice+to+meet+you!;👆+Reach+Me+Through+👆&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Karun+Chery+James..;Nice+to+meet+you😎;👆+Reach+Me+Through+👆&center=true&size=30">
   </a>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
