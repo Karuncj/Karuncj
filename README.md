@@ -55,3 +55,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" **alt="Kotlin" width="40" height="40"/>
 </div>
+  
+  <hr>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Karuncj&title=MultiLanguage,Commits,Stars,Repositories,Followers,PullRequest,Organizations&column=7&no-frame=true&no-bg=true&theme=algolia&row=2" alt="Karun Chery James" /></a> </p>
