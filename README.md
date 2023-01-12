@@ -74,5 +74,6 @@
   <div align="center">
   <br>
   </div>
-![](https://komarev.com/ghpvc/?username=Karuncj)
+
 </p>
+  ![](https://komarev.com/ghpvc/?username=Karuncj)
