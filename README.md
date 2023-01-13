@@ -10,7 +10,8 @@
     <a href="mailto:karunchery@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-      
+       
+ ​<p align="center"> <img src="https://komarev.com/ghpvc/?username=Karuncj&label=Profile%20views&colorlightgreen&style=plastic" alt="Karuncj" /> </p>
 </div>
 <!--<div id="badges">
   <a href="https://komarev.com/ghpvc/?username=karuncj">
@@ -18,12 +19,13 @@
   <br>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I+am+Karun+Chery+James..;Nice+to+meet+you😎;👆+Reach+Me+Through+👆&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I'm+Karun+Chery+James..;Nice+to+meet+you😎;👆+Reach+Me+Through+👆&center=true&size=30">
   </a>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-  
+   
+
 ---
 
 ### 👨‍💻: About Me :
