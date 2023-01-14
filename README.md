@@ -11,7 +11,7 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
        
- ​<p align="center"> <img src="https://komarev.com/ghpvc/?username=Karuncj&label=Profile%20views&colorlightgreen&style=plastic" alt="Karuncj" /> </p>
+
 </div>
 <!--<div id="badges">
   <a href="https://komarev.com/ghpvc/?username=karuncj">
@@ -24,7 +24,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-   
+   <br>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Karuncj&label=Profile%20views&color=blueviolet&style=plastic" alt="Karuncj" /> </p>
 
 ---
 
