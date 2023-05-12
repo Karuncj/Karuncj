@@ -57,7 +57,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" **alt="Kotlin" width="40" height="40"/>
-</div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" **alt="express" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="Figma" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" **alt="Flutter" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" **alt="nodejs" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Momgodb" **alt="Mongodb" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
+  </div>
   
   <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Karuncj&title=MultiLanguage,Commits,Stars,Repositories,Followers,PullRequest,Organizations&column=7&no-frame=true&no-bg=true&theme=algolia&row=2" alt="Karun Chery James" /></a> </p>
