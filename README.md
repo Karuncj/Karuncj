@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/karun-chery-james-76b165206/">
@@ -22,7 +22,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;I'm+Karun+Chery+James..;Nice+to+meet+you😎;👆+Reach+Me+Through+👆&center=true&size=30">
   </a>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="600" height="500"/>
 </div>
    <br>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Karuncj&label=Profile%20views&color=blueviolet&style=plastic" alt="Karuncj" /> </p>
